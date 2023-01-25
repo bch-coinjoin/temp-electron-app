@@ -1,6 +1,6 @@
 {
   "name": "temp-electron-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "public/electron.js",
   "description": "BCH wallet",
   "author": "Chris Troutner <chris.troutner@gmail.com>",
